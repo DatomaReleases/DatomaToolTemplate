@@ -9,5 +9,5 @@ There are three main folders:
 
 ## How to proceed?
 1. The first step is to download this repository and use the folder that suits your project.
-2. Rename the used folder to your project's name. (optional)
+2. Rename the used folder to your project's name and delete the remaining two folders. (optional)
 3. Follow the **README.md** file inside said folder.
