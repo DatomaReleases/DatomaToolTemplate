@@ -9,4 +9,5 @@ We have set three main repositories:
 
 ## How to proceed?
 1. The first step is to download or fork the repository that suits your project. They are all templates.
-2. Follow the **README.md** file inside the repository.
+2. Follow the **README.md** file inside the repository to adapt your tool.
+3. Send an email to [developer@datoma.cloud](mailto:developer@datoma.cloud) and provide us with the GitHub repository link of your adapted tool.
